@@ -131,7 +131,10 @@ não afetando o funcionamento da aplicação no contexto do projeto.
 
 ---
 
-Link GitHub -> https://github.com/Joao-Machado-UAb/ProjetoFinal.git
+## Repositório GitHub
+
+O código fonte encontra-se disponível neste repositório GitHub:
+https://github.com/Joao-Machado-UAb/ProjetoFinal.git
 
 ---
 
