@@ -51,7 +51,7 @@ ProjetoFinal/
 ├── frontend/        # Aplicação Vue.js
 ├── backend/         # API REST (Node.js / Express)
 ├── database/        # Dados de exemplo (JSON)
-├── Anexos/          # UML, Modelo de Dados e Mockups
+├── anexos/          # UML, Modelo de Dados e Mockups
 └── README.md
 ```
 
