@@ -1,0 +1,4 @@
+{"_id":{"$oid":"6973c85720223fce745c4714"},"nome":"João Machado","numero":26001,"email":"joao.machado@estudante.uab.pt","createdAt":{"$date":"2026-01-23T19:13:27.213Z"},"updatedAt":{"$date":"2026-01-23T19:13:27.213Z"}}
+{"_id":{"$oid":"6973c85720223fce745c4715"},"nome":"Bruno Reis","numero":26002,"email":"bruno.reis@estudante.uab.pt","createdAt":{"$date":"2026-01-23T19:13:27.213Z"},"updatedAt":{"$date":"2026-01-23T19:13:27.213Z"}}
+{"_id":{"$oid":"6973c85720223fce745c4716"},"nome":"Carla Sousa","numero":26003,"email":"carla.sousa@estudante.uab.pt","createdAt":{"$date":"2026-01-23T19:13:27.213Z"},"updatedAt":{"$date":"2026-01-23T19:13:27.213Z"}}
+{"_id":{"$oid":"6973c85720223fce745c4717"},"nome":"Diogo Matos","numero":26004,"email":"diogo.matos@estudante.uab.pt","createdAt":{"$date":"2026-01-23T19:13:27.213Z"},"updatedAt":{"$date":"2026-01-23T19:13:27.213Z"}}
