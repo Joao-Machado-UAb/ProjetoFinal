@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Env
+.env
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Dist
+dist/
