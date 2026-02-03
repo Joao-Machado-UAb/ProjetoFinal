@@ -72,9 +72,16 @@ A pasta `database/` contém ficheiros JSON com dados de exemplo:
 - `alunos.json`
 - `propostas.json`
 
+
+A importação dos dados pode ser realizada através do **MongoDB Compass**
+(importação de ficheiros JSON) ou, alternativamente, via linha de comandos
+com a ferramenta `mongoimport`.
+
+
 ### Importação da Base de Dados
 
-**Opção 1 – MongoDB Compass (recomendado):**
+**Opção 1 – MongoDB Compass:**
+
 1. Abrir MongoDB Compass
 2. Criar/selecionar a base de dados `propostasbd`
 3. Importar cada ficheiro JSON para a respetiva coleção
