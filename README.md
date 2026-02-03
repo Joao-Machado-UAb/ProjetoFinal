@@ -92,10 +92,8 @@ mongoimport --db propostasbd --collection propostas --file propostas.json --json
 
 Para efeitos de demonstração e avaliação:
 
-- **Email:** leonel.morgado@uab.pt  
+- **Email:** leonel.morgado@uab.pt / ricardo.baptista@uab.pt / luis.barbosa@uab.pt
 - **Password:** 123456  
-
-Nota: todos os docentes de exemplo utilizam a mesma password (`123456`).
 
 ---
 
